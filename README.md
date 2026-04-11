@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitrajput08/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankraj0009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ankitrajput08@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ankit-rajput-08&color=0078d7&style=flat" alt="profile views"/>
 </p>
 
@@ -18,9 +18,9 @@
 - 🗄️ Working with **MySQL, MongoDB, Redis** for storage and caching
 - 🐳 Containerizing apps with **Docker**, exploring **AWS** for cloud deployment
 - 🎓 Final-year CSE student at **Punjab Technical University** (2026)
-- 💼 Previously interned at **Cognifyz Technologies** — built backend data pipelines
+- 💼 Previously interned at **Cognifyz Technologies** 
 - 🔍 Actively seeking **Java Backend / Software Developer** roles
-- 📬 Reach me at **ankraj0009@gmail.com**
+- 📬 Reach me at **ankitrajput08@yahoo.com**
 
 ---
 
@@ -29,8 +29,8 @@
 | Project | Stack | Status |
 |---|---|---|
 | Transaction Notification System | Java, Spring Boot, Kafka, MySQL | ✅ Complete |
-| REST API with Redis Caching | Spring Boot, Redis, Docker, MySQL | 🔧 In Progress |
-| Microservices Demo | Spring Boot, Kafka, Docker, API Gateway | 📋 Planned |
+| Traffic Control System | Spring Boot, Redis, MySQL | 🔧 In Progress |
+| Microservices  | Spring Boot, Kafka, Docker, API Gateway | 📋 Planned |
 
 ---
 
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"First, solve the problem. Then, write the code." — Ankit Rajput</i>
 </p>
