@@ -1,18 +1,75 @@
-# 💫 About Me:
-Java Backend Development projects using Spring Boot & REST APIs<br>Java / Spring Boot backend projects<br>Spring Boot (Advanced), Microservices Architecture, Apache Kafka, Docker & AWS basics
+<!-- GitHub Profile README — Ankit Rajput -->
 
+<h1 align="center">Hi, I'm Ankit Rajput 👋</h1>
+<h3 align="center">Java Backend Developer · Spring Boot · Kafka · Redis · Microservices</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitrajput08/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankraj0009@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankit-rajput-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankit-rajput-08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-rajput-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitrajput08/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ankraj0009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ankit-rajput-08&color=0078d7&style=flat" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankit-rajput-08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🔧 I build **scalable backend systems** using Java, Spring Boot, and Apache Kafka
+- ⚡ Experienced in **event-driven architecture**, REST APIs, and microservices
+- 🗄️ Working with **MySQL, MongoDB, Redis** for storage and caching
+- 🐳 Containerizing apps with **Docker**, exploring **AWS** for cloud deployment
+- 🎓 Final-year CSE student at **Punjab Technical University** (2026)
+- 💼 Previously interned at **Cognifyz Technologies** — built backend data pipelines
+- 🔍 Actively seeking **Java Backend / Software Developer** roles
+- 📬 Reach me at **ankraj0009@gmail.com**
+
+---
+
+## 🚀 What I'm Working On
+
+| Project | Stack | Status |
+|---|---|---|
+| Transaction Notification System | Java, Spring Boot, Kafka, MySQL | ✅ Complete |
+| REST API with Redis Caching | Spring Boot, Redis, Docker, MySQL | 🔧 In Progress |
+| Microservices Demo | Spring Boot, Kafka, Docker, API Gateway | 📋 Planned |
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Messaging & Caching**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-rajput-08&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-rajput-08&theme=dark&hide_border=true&layout=compact" height="165"/>
+</p>
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ankit-rajput-08&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
