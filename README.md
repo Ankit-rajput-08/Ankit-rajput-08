@@ -1,75 +1,76 @@
 <!-- GitHub Profile README — Ankit Rajput -->
 
-<h1 align="center">Hi, I'm Ankit Rajput 👋</h1>
-<h3 align="center">Java Backend Developer · Spring Boot · Kafka · Redis · Microservices</h3>
+# Hi there, I'm Ankit Rajput! 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankitrajput08/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitrajput08@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ankit-rajput-08&color=0078d7&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%C2%B7+Kafka+%C2%B7+Redis;Event-Driven+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ About Me
 
-- 🔧 I build **scalable backend systems** using Java, Spring Boot, and Apache Kafka
-- ⚡ Experienced in **event-driven architecture**, REST APIs, and microservices
-- 🗄️ Working with **MySQL, MongoDB, Redis** for storage and caching
-- 🐳 Containerizing apps with **Docker**, exploring **AWS** for cloud deployment
-- 🎓 Final-year CSE student at **Punjab Technical University** (2026)
-- 💼 Previously interned at **Cognifyz Technologies** 
-- 🔍 Actively seeking **Java Backend / Software Developer** roles
-- 📬 Reach me at **ankitrajput08@yahoo.com**
+I build scalable backend systems focused on reliability and clean architecture.
 
----
-
-## 🚀 What I'm Working On
-
-| Project | Stack | Status |
-|---|---|---|
-| Transaction Notification System | Java, Spring Boot, Kafka, MySQL | ✅ Complete |
-| Traffic Control System | Spring Boot, Redis, MySQL | 🔧 In Progress |
-| Microservices  | Spring Boot, Kafka, Docker, API Gateway | 📋 Planned |
+- 🚀 **Currently:** Building distributed backend systems with Java, Spring Boot, Kafka, and Redis
+- 🎯 **Targeting:** Java Backend role at product-driven companies
+- 🧩 **DSA:** Actively solving problems — check my [DSA Revision Repo](https://github.com/Ankit-rajput-08/DSA-Revision-Java)
+- 🎓 **Final-year CSE student** graduating 2026
+- 📬 **Reach me:** ankitrajput8@yahoo.com
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-**Backend**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+### 🚦 [ Traffic Control System](https://github.com/Ankit-rajput-08/traffic-control-service)
+*Fault-tolerant job processing system sustaining 33+ jobs/second with tier-based priority scheduling, heartbeat monitoring, and automated recovery.*
 
-**Messaging & Caching**
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- **Stack:** Java · Spring Boot · Kafka · Redis · MySQL · Docker
+- **Key Features:**
+  - 🏎️ **Priority Queue** — Redis ZSET with atomic Lua scripts — PAID jobs always execute before UNPAID and PUBLIC
+  - 📉 **Fault Tolerance** — Reduced recovery complexity from O(n) to O(log n) via Redis ZSET range queries — two independent schedulers detect heartbeat expiry and max processing time breaches
+  - 🔒 **Admission Control** — Distributed capacity enforcement via Redis atomic counter — multi-instance safe without JVM-local synchronization
+  - 💀 **Resilience** — Permanently failed jobs routed to Dead Letter Queue persisted in MySQL after exhausting tier-specific max retries
+  - 💓 **Heartbeat Monitor** — Detected crashed workers within 500ms by atomically updating processing store scores on every pulse
+
+---
+
+
+
+### 🧰 Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
+
+**Frameworks & Build**
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven)](https://skillicons.dev)
 
 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=docker,git,postman,idea)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-rajput-08&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-rajput-08&theme=dark&hide_border=true&layout=compact" height="165"/>
-</p>
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ankit-rajput-08&theme=dark&hide_border=true"/>
-</p>
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit-rajput-08/Ankit-rajput-08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit-rajput-08/Ankit-rajput-08/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ankit-rajput-08/Ankit-rajput-08/output/github-snake.svg" />
+</picture>
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — Ankit Rajput</i>
-</p>
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitrajput08)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitrajput8@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ankit-rajput-08)
