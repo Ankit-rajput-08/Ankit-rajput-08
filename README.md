@@ -15,7 +15,7 @@ I build scalable backend systems focused on reliability and clean architecture.
 - 🚀 **Currently:** Building distributed backend systems with Java, Spring Boot, Kafka, and Redis
 - 🎯 **Targeting:** Java Backend role at product-driven companies
 - 🧩 **DSA:** Actively solving problems — check my [DSA Revision Repo](https://github.com/Ankit-rajput-08/DSA-Revision-Java)
-- 🧩 **LLD:** Learning System Design — check my [System Design Repo](https://github.com/Ankit-rajput-08/System-Design)
+- 🧩 **LLD:** Learning LLD — check my [lld Repo](https://github.com/Ankit-rajput-08/System-Design)
 - 🎓 **Final-year CSE student** graduating 2026
 - 📬 **Reach me:** ankitrajput8@yahoo.com
 
