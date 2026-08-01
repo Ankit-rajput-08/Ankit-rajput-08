@@ -23,7 +23,7 @@ I build scalable backend systems focused on reliability and clean architecture.
 
 ### 🚀 Featured Projects
 
-### 🚦 [ Traffic Control System](https://github.com/Ankit-rajput-08/traffic-control-service)
+###  [ Traffic Control System](https://github.com/Ankit-rajput-08/traffic-control-service)
 *Fault-tolerant job processing system sustaining 33+ jobs/second with tier-based priority scheduling, heartbeat monitoring, and automated recovery.*
 
 - **Stack:** Java · Spring Boot · Kafka · Redis · MySQL · Docker
